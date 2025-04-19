@@ -28,7 +28,7 @@ A curious **Electronics and Communication Engineer** with a flair for
 
 <p align="center">
   <a href="https://auth.geeksforgeeks.org/user/727822t5tl3/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-YourPointsPoints-brightgreen?style=flat&logo=geeksforgeeks" alt="GFG Points" />
+    <img src="https://img.shields.io/badge/GFG-Points%20|%20Solved%20Problems%20-%3C%=gfg_stats.md%3E-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Stats" />
   </a>
 </p>
 
