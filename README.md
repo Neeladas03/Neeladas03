@@ -38,11 +38,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://your-portfolio-link.com"><strong>🌍 Portfolio</strong></a> •
-  <a href="https://leetcode.com/u/727822tuec132/"><strong>LeetCode</strong></a> •
-  <a href="https://auth.geeksforgeeks.org/user/727822t5tl3/"><strong>GeeksForGeeks</strong></a> •
-  <a href="https://twitter.com/YourTwitterHandle"><strong>Twitter</strong></a> •
-  <a href="https://instagram.com/YourInstaHandle"><strong>Instagram</strong></a>
+  <a href="https://neeladhasanportfolio.netlify.app/"><strong>🌍 Portfolio</strong></a> •
 </p>
 
 ---
