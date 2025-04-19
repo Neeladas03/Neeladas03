@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center">🚀 Hello, I'm Das</h1>
+<h1 align="center">🚀 Hello, I'm NeelaDhasan</h1>
 <p align="center">An Electronics & Communication Engineer passionate about building a bridge between hardware and software through creativity and clean code.</p>
 
 ---
