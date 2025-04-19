@@ -4,6 +4,13 @@
 
 ---
 
+# 👋 Hello, I'm Das!
+
+A passionate **Electronics and Communication Engineer** with a heart for **Code, Creativity & Curiosity**.  
+Turning **Ideas → Code → Impact**.  
+
+---
+
 ## 🚀 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,react,tailwind,git,github,linux,vscode,html,css,js" alt="Tech Stack" />
@@ -46,4 +53,3 @@
 > 💡 *“Consistency beats talent when talent doesn't work hard.”*
 
 ---
-
