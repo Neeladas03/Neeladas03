@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=600&lines=Hey+I'm+Das.;Engineer,+Developer+&+Problem+Solver.;Designing+my+own+Future,+One+Line+at+a+Time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=600&lines=Hey+I'm+Das.;Engineer,+Developer+%26+Problem+Solver.;Designing+my+Future,+One+Line+at+a+Time." alt="Typing SVG" />
 </p>
 
 ---
 
-# 🚀 Hello, I'm Das  
-**Electronics & Communication Engineer** with a passion for bridging **hardware** and **software** — solving problems through creativity and code.
+<h1 align="center">🚀 Hello, I'm Das</h1>
+<p align="center">An Electronics & Communication Engineer passionate about building a bridge between hardware and software through creativity and clean code.</p>
 
 ---
 
@@ -31,31 +31,20 @@
 
 ---
 
-## 🎬 About Me
-- 🔥 Currently learning: **MERN Stack & System Design**  
-- 💡 Exploring: **VLSI & Embedded Systems**
-- 🧠 Philosophy: *"Simple code. Powerful impact."*  
-- 🎯 Mission: Becoming a **Full-Stack Developer & Tech Artist**
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="150"/>
-</div>
+<h2 align="center">📂 Welcome to My GitHub Repositories</h2>
+<p align="center">Curated projects blending code, logic, and creativity — feel free to explore and star anything you like!</p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 [Portfolio](https://your-portfolio-link.com)
-- 🏹 [LeetCode](https://leetcode.com/u/727822tuec132/)
-- 💻 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/727822t5tl3/)
-- 🐦 [Twitter](https://twitter.com/YourTwitterHandle)
-- 📷 [Instagram](https://instagram.com/YourInstaHandle)
+<p align="center">
+  <a href="https://your-portfolio-link.com"><strong>🌍 Portfolio</strong></a> •
+  <a href="https://leetcode.com/u/727822tuec132/"><strong>LeetCode</strong></a> •
+  <a href="https://auth.geeksforgeeks.org/user/727822t5tl3/"><strong>GeeksForGeeks</strong></a> •
+  <a href="https://twitter.com/YourTwitterHandle"><strong>Twitter</strong></a> •
+  <a href="https://instagram.com/YourInstaHandle"><strong>Instagram</strong></a>
+</p>
 
 ---
 
-> 💡 *"Small progress each day adds up to big results."*
-
----
+<p align="center"><i>"Small progress each day adds up to big results."</i></p>
