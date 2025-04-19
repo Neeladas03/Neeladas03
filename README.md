@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=600&lines=Hey+there!+I'm+Das.;A+Passionate+Developer+%26+Engineer.;Welcome+to+my+GitHub+Universe!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=600&lines=Hey+I'm+Das.;Engineer,+Developer+&+Problem+Solver.;Designing+my+own+Future,+One+Line+at+a+Time." alt="Typing SVG" />
 </p>
 
 ---
 
-# 🌸 Kon'nichiwa, I'm Das! 🧑‍💻
-
-A curious **Electronics and Communication Engineer** with a flair for  
-**Code, Creativity & Solving Problems** — bridging hardware and software like an anime protagonist’s arc!
+# 🚀 Hello, I'm Das  
+**Electronics & Communication Engineer** with a passion for bridging **hardware** and **software** — solving problems through creativity and code.
 
 ---
 
@@ -18,8 +16,7 @@ A curious **Electronics and Communication Engineer** with a flair for
 
 ---
 
-## 🎯 Competitive Programming Progress
-
+## 🎯 Competitive Programming
 <p align="center">
   <a href="https://leetcode.com/u/727822tuec132/">
     <img src="https://leetcard.jacoblin.cool/727822tuec132?ext=contest" alt="LeetCode Stats" />
@@ -28,26 +25,25 @@ A curious **Electronics and Communication Engineer** with a flair for
 
 <p align="center">
   <a href="https://auth.geeksforgeeks.org/user/727822t5tl3/">
-    <img src="https://img.shields.io/badge/GFG-Points%20|%20Solved%20Problems%20-%3C%=gfg_stats.md%3E-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Stats" />
+    <img src="https://img.shields.io/badge/Visit%20My-GFG%20Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile" />
   </a>
 </p>
 
 ---
 
-## 🌸 About Me
-- 🚀 Engineering student blending **Software + Hardware** like a mecha engineer.
-- 💡 Exploring: **MERN stack, System Design, VLSI Fundamentals**.
-- 💬 DM me about **DSA, React, Embedded Systems, or AI basics**.
-- 🎯 Mission: Unlocking my final form as a **Full-Stack Developer & Tech Artist**.
+## 🎬 About Me
+- 🔥 Currently learning: **MERN Stack & System Design**  
+- 💡 Exploring: **VLSI & Embedded Systems**
+- 🧠 Philosophy: *"Simple code. Powerful impact."*  
+- 🎯 Mission: Becoming a **Full-Stack Developer & Tech Artist**
 
 ---
 
 ## 📊 GitHub Stats
-<!-- GFG-STATS-START -->
-Loading your GeeksforGeeks stats...
-<!-- GFG-STATS-END -->
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="150"/>
+</div>
 
 ---
 
@@ -55,21 +51,11 @@ Loading your GeeksforGeeks stats...
 - 💼 [Portfolio](https://your-portfolio-link.com)
 - 🏹 [LeetCode](https://leetcode.com/u/727822tuec132/)
 - 💻 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/727822t5tl3/)
-- 🐦 [Twitter](https://twitter.com/YourTwitterHandle)  
-- 📷 [Instagram](https://instagram.com/YourInstaHandle)  
+- 🐦 [Twitter](https://twitter.com/YourTwitterHandle)
+- 📷 [Instagram](https://instagram.com/YourInstaHandle)
 
 ---
 
-## 🧘 Hobbies & Passions
-- 🥋 Martial Arts (Discipline meets Strength!)
-- 🎬 Anime + Manga Lover (Jujutsu Kaisen, Demon Slayer, Violet Evergarden vibes!)
-- 🎨 Digital Design, UI/UX Sketching
-- 📚 Stoic Philosophy & Mindfulness
-- 🎧 Lo-fi + Synthwave beats when coding.
-
----
-
-> 💡 *“Consistency beats talent when talent doesn't work hard.”*  
-> 🍙 *“A small step today, a giant leap for your future self.”*
+> 💡 *"Small progress each day adds up to big results."*
 
 ---
