@@ -43,11 +43,10 @@ A curious **Electronics and Communication Engineer** with a flair for
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/727822t5tl3/">
-    <img src="https://img.shields.io/badge/GFG-$(cat gfg_stats.md)-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Stats" />
-  </a>
-</p>
+<!-- GFG-STATS-START -->
+Loading your GeeksforGeeks stats...
+<!-- GFG-STATS-END -->
+
 
 
 ---
