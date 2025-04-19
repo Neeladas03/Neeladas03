@@ -43,10 +43,12 @@ A curious **Electronics and Communication Engineer** with a flair for
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="150"/>
-</div>
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/727822t5tl3/">
+    <img src="https://img.shields.io/badge/GFG-$(cat gfg_stats.md)-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Stats" />
+  </a>
+</p>
+
 
 ---
 
